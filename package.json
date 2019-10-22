@@ -1,0 +1,34 @@
+{
+  "_from": "git+https://github.com/jellyfin/cordova-plugin-chromecast.git",
+  "_id": "cordova-plugin-chromecast@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-chromecast",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/jellyfin/cordova-plugin-chromecast.git",
+    "rawSpec": "https://github.com/jellyfin/cordova-plugin-chromecast.git",
+    "saveSpec": "git+https://github.com/jellyfin/cordova-plugin-chromecast.git",
+    "fetchSpec": "https://github.com/jellyfin/cordova-plugin-chromecast.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/jellyfin/cordova-plugin-chromecast.git#5d251b27e7ce400148373ed3563ac14b77cdc513",
+  "_spec": "https://github.com/jellyfin/cordova-plugin-chromecast.git",
+  "_where": "C:\\Users\\HV Sombrilla\\Desktop\\Trabajos\\junior\\ionNetflix",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "README.md",
+  "license": "GPL-2.0-only",
+  "main": "chrome.cast.js",
+  "name": "cordova-plugin-chromecast",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
